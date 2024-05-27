@@ -37,7 +37,7 @@ Whenever a commit is made to the repository a number of actions occur. A GitHub 
 1. This completes the setup required to build installation packages on AppVeyor.
 
 #### Start a CI Build.
-Make a commit to your GitHub repository.  If working in a local clone do not forget to push the commit.  This will trigger the GitHub actions listed above including starting the CI build.    
+Make a commit to your GitHub repository.  If working in a local clone do not forget to push the commit.  This will trigger the GitHub actions listed above including starting the CI build.    This is the commit.  
 
 If you encounter this message on AppVeyor: *"There was an error while trying to complete the current operation. Please contact AppVeyor support."* you must send an email to support@appveyor.com asking to have your account enabled.
 
